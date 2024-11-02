@@ -43,7 +43,6 @@ public class notas {
 		            }
 		        }
 
-		   //notas
 		        System.out.println("\nTabela de pessoas e suas médias:");
 		        System.out.printf("%-20s %-10s%n", "Nome", "Média");
 		        for (int i = 0; i < N; i++) {
